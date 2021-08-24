@@ -18,6 +18,6 @@
 ### Pooling은 convolution한 결과인 출력데이터를 입력으로 받아 크기를 줄이거나 특정 부분을 강조하기위해<br>샘플링하는 과정입니다. 
 * feature map에서 특정영역을 형성한뒤 해당 영역에서 가장 큰 수를 도출해내는 것을 max pooling이라고 합니다.
 ### Convolution과 Padding으로 늘린 데이터를 줄이기 위해서 max pooling을 이용하여 feature들을 뚜렷하게 합니다.<br><img width="400" alt="c123" src="https://user-images.githubusercontent.com/81547954/130438066-1368cadd-6c41-48f8-b16c-0cf9cfd910b0.png">
-
+## Flatten
 #### 출처: https://velog.io/@dltjrdud37/CNNConvolutional-Neural-Network<br>https://www.kakaobrain.com/blog/9<br>http://taewan.kim/post/cnn/<br>https://89douner.tistory.com/57
 #### gif출처 : http://deeplearning.stanford.edu/wiki/index.php/Feature_extraction_using_convolution
